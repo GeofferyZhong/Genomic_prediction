@@ -1,7 +1,9 @@
 # Genomic_prediction
 
 Jupyter notebook "Genome to Field Genomic Prediction" provided three implementations for genomic prediction in R. 
+
 a. Penalized linear regression based on glmnet package
+
 b. Kernel regression for two type of kernels: 
    1. Linear kernel
    2. Euclidean distance based Gaussian kernel 
